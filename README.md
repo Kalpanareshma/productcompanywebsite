@@ -42,9 +42,7 @@ Publish the website in the given URL.
   <head>
     <title>KOLLYWOOD STATION</title>
     <link rel="stylesheet" href="./css/layout.css" />
-    
   </head>
-
   <body>
     
       <div class="banner"></div>
@@ -78,8 +76,7 @@ Publish the website in the given URL.
       </div>
       <div class="footer">
         Copyright &#169; 2023 KOLLYWOOD STATION, Developed by KALPANA S.
-      </div>
-   
+    </div>
   </body>
 </html>
 
@@ -89,11 +86,8 @@ Publish the website in the given URL.
   <head>
     <title>FULLY FILMY</title>
     <link rel="stylesheet" href="./css/layout.css" />
-    
   </head>
-
   <body>
-    
       <div class="banner"></div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
@@ -226,16 +220,14 @@ Publish the website in the given URL.
                   </div>
                   <div class="itemname">ARR</div>
                   <div class="itemprice">Price: Rs.599 </div>
-              </div>
-              
+          </div>
           </div>
           </div>
                   
       </div>
       <div class="footer">
         Copyright &#169; 2023 KOLLYWOOD STATION, Developed by KALPANA S.
-      </div>
-    
+  </div>
   </body>
 </html>
 ## PEOPLE PAGE:
@@ -246,57 +238,46 @@ Publish the website in the given URL.
         <link rel="stylesheet" href="./css/layout.css" />
     </head>
     <body>
-
             <div class="banner"></div>
             <div class="menu">
             <div class="menuitem"><a href="/static/home.html">Home</a></div>
             <div class="menuitem"><a href="/static/products.html">Products</a></div>
             <div class="menuitemselected"><a href="/static/people.html">People</a></div>
             <div class="menuitem"><a href="/static/contact.html">Contact Us</a></div>
-            
         </div>
         <div class="content">
         <div class="productcontent">    
         <h2 style="text-align:center;">PEOPLE</h2>
-          
         <div class="productitems">
-            
         <div class="productitem"> 
                   <div class="itemimage">
                   <img src="/static/img/vetri.png"  alt="product image">
                   </div>
                   <div class="itemname">VETRI MARAN</div>
-                  
               </div>
               <div class="productitem"> 
                   <div class="itemimage">
                   <img src="/static/img/ram.png"  alt="product image">
                   </div>
                   <div class="itemname">RAM</div>
-                  
               </div>
               <div class="productitem"> 
                   <div class="itemimage">
                   <img src="/static/img/thiagaraj.png"  alt="product image">
                   </div>
                   <div class="itemname">THIYAGARAJA KUMARARAJA</div>
-                  
               </div>
               <div class="productitem"> 
                   <div class="itemimage">
                   <img src="/static/img/balu.png"  alt="product image">
                   </div>
                   <div class="itemname">BALU MAHENDRAN</div>
-                  
               </div>
               </div>
               </div>
     <div class="footer">
         Copyright &#169; 2023 KOLLYWOOD STATION, Developed by KALPANA S.
-    </div>
-              
-        
-                  
+    </div>                  
     </body>
 </html>
 ## CONTACT US:
@@ -305,7 +286,6 @@ Publish the website in the given URL.
     <head>
         <title>KOLLYWOOD STATION</title>
         <link rel="stylesheet" href="./css/layout.css" />
-    
     </head>
     <body>
         <div class="banner"></div>
@@ -314,7 +294,6 @@ Publish the website in the given URL.
             <div class="menuitem"><a href="/static/products.html">Products</a></div>
             <div class="menuitem"><a href="/static/people.html">People</a></div>
             <div class="menuitemselected"><a href="/static/contact.html">Contact Us</a></div>
-            
         </div>
         <div class="content">
             <h1>CONTACT US</h1>
@@ -334,12 +313,10 @@ Publish the website in the given URL.
         <p><strong>INSTAGRAM</strong> @kollywood_station</p>
         <p><strong>FACEBOOK</strong> @kollywood_station</p>
         <p><strong>LINKEDIN</strong> @kollywood_station</p>
-
         </div>
     <div class="footer">
         Copyright &#169; 2023 KOLLYWOOD STATION, Developed by KALPANA S.
     </div>
-            
     </body>
 </html>
   
@@ -352,11 +329,5 @@ Publish the website in the given URL.
 ![exp76](https://github.com/Kalpanareshma/productcompanywebsite/assets/122040453/e3cc4558-a1ee-4466-8f48-9b606c3e5a8e)
 ![exp77](https://github.com/Kalpanareshma/productcompanywebsite/assets/122040453/a88fb6d2-f6a5-44d6-9cca-8c7835829b15)
 ![exp78](https://github.com/Kalpanareshma/productcompanywebsite/assets/122040453/455bf19c-d92e-459b-adcc-8eca44d7487d)
-
-
-
-
-
 ## Result:
-
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
