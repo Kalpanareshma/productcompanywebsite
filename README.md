@@ -1,5 +1,4 @@
 # EX-07 Web Design for a Software Product Company
-
 ## AIM:
 
 To design a static website for a software product company company.
