@@ -85,8 +85,11 @@ Publish the website in the given URL.
   <head>
     <title>FULLY FILMY</title>
     <link rel="stylesheet" href="./css/layout.css" />
+    
   </head>
+
   <body>
+    
       <div class="banner"></div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
@@ -219,14 +222,16 @@ Publish the website in the given URL.
                   </div>
                   <div class="itemname">ARR</div>
                   <div class="itemprice">Price: Rs.599 </div>
-          </div>
+              </div>
+              
           </div>
           </div>
                   
       </div>
       <div class="footer">
         Copyright &#169; 2023 KOLLYWOOD STATION, Developed by KALPANA S.
-  </div>
+      </div>
+    
   </body>
 </html>
 ## PEOPLE PAGE:
